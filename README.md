@@ -12,7 +12,7 @@
 ### 활용 데이터
 공유 오피스 3일 체험 신청자 로그 데이터 
 - 주요 컬럼 : 유저 ID, 신청일시, 방문일, 입퇴실 시각, 출입 시각, 결제 여부, 지점 면적 등
-![dataandfeature]
+![dataandfeature](https://github.com/Myungbin-Choi/Coworking-space-project/blob/main/images/dataandfeature.png)
 
 
 ### 수행 역할
@@ -21,28 +21,29 @@
 ---
 
 ## 분석 과정 
-![modeling_step1]
-![modeling_step2]
-![modeling_step3]
-![modeling_step4]
-![modeling_step5]
-![modeling_step6]
-
+![modeling_step1](https://github.com/Myungbin-Choi/Coworking-space-project/blob/main/images/modeling_step1.png)
+![modeling_step2](https://github.com/Myungbin-Choi/Coworking-space-project/blob/main/images/modeling_step2.png)
+![modeling_step3](https://github.com/Myungbin-Choi/Coworking-space-project/blob/main/images/modeling_step3.png)
+![modeling_step4](https://github.com/Myungbin-Choi/Coworking-space-project/blob/main/images/modeling_step4.png)
+![modeling_step5](https://github.com/Myungbin-Choi/Coworking-space-project/blob/main/images/modeling_step5.png)
+![modeling_step6](https://github.com/Myungbin-Choi/Coworking-space-project/blob/main/images/modeling_step6.png)
 
 ---
 
 ## directory structure
 ```bash
-├── README.md                     <- 프로젝트 요약 설명
-├── profiling_HR.ipynb            <- 분석 통합 파일 (preview 용)
-├── profiling_HR.py               <- 분석 통합 파일 (code 공유용)
-├── 고성과자프로파일링_요약포트폴리오.pdf  <- 프로젝트 2page 요약 파일
-├── 고성과자프로파일링_포트폴리오.pdf     <- 프로젝트 보고서 요약 파일
-├── Dashboard                     <- 고성과자 프로파일링 대시보드 이미지
-├── images                        <- 주요 이미지 파일
-│   ├── Dashboard.png       
-│   ├── efficacy_correlation.png      
-│   ├── group_differences.png   
-│   └── high_performers.png            
-│   └── process.png                   
+├── README.md                          <- 프로젝트 요약 설명
+├── coworking_space.ipynb              <- 분석 통합 파일 (preview 용)
+├── coworking_space.py                 <- 분석 통합 파일 (code 공유용)
+├── 공유오피스_유료전환_예측_요약포트폴리오.pdf  <- 프로젝트 2page 요약 파일
+├── 공유오피스_유료전환_예측_포트폴리오.pdf     <- 프로젝트 보고서 요약 파일
+├── images                             <- 주요 이미지 파일
+│   ├── dataandfeature.png       
+│   ├── modeling_step1.png      
+│   ├── modeling_step2.png   
+│   └── modeling_step3.png            
+│   └── modeling_step4.png
+│   └── modeling_step5.png                   
+│   └── modeling_step6.png                   
+                   
 ```
